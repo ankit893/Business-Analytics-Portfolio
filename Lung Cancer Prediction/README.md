@@ -8,16 +8,23 @@ Using Power BI’s data transformation (Power Query) and interactive visualizati
 
 
 🎯 Business Problem
+Healthcare providers struggle to proactively identify high-risk individuals for lung cancer, leading to delayed diagnosis and higher treatment costs.
+
 
 🔎 Problem Statement
 
 
-The key challenges addressed in this project:
+The key challenges addressed in this project: Identify key behavioral and demographic factors contributing to lung cancer risk and support early intervention strategies.
 
 
 
 📊 Dataset Information
 
+Source: Public health dataset
+
+Records: ~3,000 patients
+
+Features: Smoking habits, age, alcohol use, symptoms
 
 
 Column Name	   Description
