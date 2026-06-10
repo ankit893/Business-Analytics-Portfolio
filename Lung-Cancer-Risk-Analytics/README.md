@@ -2,10 +2,7 @@ Lung Cancer Survey Analysis for Both Males and Females
 
 ![image](https://github.com/user-attachments/assets/ad9cb122-e99e-4f6f-9307-513d952d81c2)
 📌 Project Overview
-This analysis is to help understand the cancer risk in different age groups and also notify the respondents with lung cancer in different age groups. My data was analyzed using Microsoft Excel and visualized using Python.
-
-Using Power BI’s data transformation (Power Query) and interactive visualizations, this project:
-
+This analysis is to help understand the cancer risk in different age groups and also notify the respondents with lung cancer in different age groups. My data was analyzed using Power BI’s data transformation (Power Query) and interactive visualizations, this project:
 
 🎯 Business Problem
 Healthcare providers struggle to proactively identify high-risk individuals for lung cancer, leading to delayed diagnosis and higher treatment costs.
@@ -15,7 +12,6 @@ Healthcare providers struggle to proactively identify high-risk individuals for 
 
 
 The key challenges addressed in this project: Identify key behavioral and demographic factors contributing to lung cancer risk and support early intervention strategies.
-
 
 
 📊 Dataset Information
@@ -109,5 +105,3 @@ Hi, I'm Ankit Sharma, a Data Analyst skilled in SQL, Power BI, and Excel. I enjo
 📩 ankitsharmaaa893@gmail.com
 
 🔗 : https://www.linkedin.com/in/ankitsharma893/
-
-🌐 : https://linktr.ee/ankitsharma893
