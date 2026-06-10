@@ -108,18 +108,11 @@ Shipment frequency = COUNT(Supply_Chain[Shipment Mode])
 
 
 
-More work Coming Soon...
+<img width="1274" height="717" alt="image" src="https://github.com/user-attachments/assets/6d9b2155-cf64-453f-8a28-e46647b2389c" />
 
 
 
-
-
-
-
-📈 Key Insights
-
-Coming Soon......
-
+<img width="1274" height="717" alt="image" src="https://github.com/user-attachments/assets/6c420699-52b3-452a-ba48-e52308ccdf03" />
 
 
 📌 About Me
@@ -136,8 +129,6 @@ Hi, I'm Ankit Sharma, a Data Analyst skilled in SQL, Power BI, and Excel. I enjo
 📩 ankitsharmaaa893@gmail.com
 
 🔗 : https://www.linkedin.com/in/ankitsharma893/
-
-🌐 : https://linktr.ee/ankitsharma893
 
 
 
